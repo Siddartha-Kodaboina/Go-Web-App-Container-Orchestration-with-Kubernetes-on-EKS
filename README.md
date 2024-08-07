@@ -2,6 +2,9 @@
 
 This is a simple website written in Golang. It uses the `net/http` package to serve HTTP requests.
 
+## Deployment Detailed Architecture in ArgoCD
+![Deployment Detailed Architecture in ArgoCD](./deployment-ss-argocd.png)
+
 ## Running the server
 
 To run the server, execute the following command:
